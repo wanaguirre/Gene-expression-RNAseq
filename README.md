@@ -38,14 +38,14 @@ Use various techniques that can be used to reduce the dimensionality, to then be
 **t-SNE**
 
 <p align="center">
-<image src="Notebooks/images/tSNE.jpg" width=700px/>
+<image src="Notebooks/images/tSNE.jpg" width=500px/>
 </p>
 
 
 **UMAP**
 
 <p align="center">
-<image src="Notebooks/images/UMAP.jpg" width=700px/>
+<image src="Notebooks/images/UMAP.jpg" width=500px/>
 </p>
 
   - **Dimensionality Reduction for Clustering:**
@@ -87,12 +87,12 @@ Use various techniques that can be used to reduce the dimensionality, to then be
 **Sankey Diagram Kmean**
 
 <p align="center">
-<image src="Notebooks/images/sankey_kmean.png" width=700px/>
+<image src="Notebooks/images/sankey_kmean.png"/>
 </p>
 
 **Sankey Diagram UMAP**
 
 <p align="center">
-<image src="Notebooks/images/sankey_umap.png" width=700px/>
+<image src="Notebooks/images/sankey_umap.png"/>
 </p>
    
